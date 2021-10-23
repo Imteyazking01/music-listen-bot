@@ -1,6 +1,6 @@
 {
-  "name": "Camilla Music",
-  "description": "Open-Source bot to play songs in your Telegram's Group Voice Chat. Powered by PyTgCalls.",
+  "name": "Love Music",
+  "description": "Open-Source bot to play songs in your Telegram's Group Voice Chat. Powered by PyTgCalls.@Imteyaz_king",
   "keywords": ["music", "voicechat", "telegram"],
   "repository": "https://github.com/Imteyazking01/music-listen-bot",
   "stack": "container",
@@ -16,7 +16,7 @@
     "BOT_NAME": {
       "description": "Your MusicPlayer Bot Name.",
       "required": false,
-      "value": "camilla vc"
+      "value": "Love vc"
     },
     "API_ID": {
       "description": "App ID from my.telegram.org/apps",
